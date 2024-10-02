@@ -9,4 +9,4 @@ else:
   #En caso de cualquier tipo de error saldira este mensaje
     print("Error en el sistema")
 
-print("Fin de la matraca cara nalga")
+print("Fin del programa")
