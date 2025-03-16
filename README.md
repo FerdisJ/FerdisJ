@@ -16,7 +16,7 @@ Feel free to explore the repositories and provide feedback. Collaboration is wel
 
 ## Contacts
 - 📧 Email: (fernando.ortiz@insbaixcamp.cat)
-- 💼 LinkedIn: (https://www.linkedin.com/in/fernando-ortiz-jurado-5581232a2/)
+- 💼 LinkedIn: (https://www.linkedin.com/in/fernando-ortiz-jurado-589090331/)
 - 🌐 Personal Website: --in progress--
 
 **Let's code, learn, and innovate together!** 🚀
