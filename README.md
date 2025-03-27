@@ -15,7 +15,7 @@ Here you'll find a collection of projects that reflect my interests, skills, and
 Feel free to explore the repositories and provide feedback. Collaboration is welcomed, so if you find something interesting or have ideas for improvement, let's connect and make it better together.
 
 ## Contacts
-- 📧 Email: (fernando.ortiz@insbaixcamp.cat)
+- 📧 Email: (Fernando.Work.Account@proton.me)
 - 💼 LinkedIn: (https://www.linkedin.com/in/fernando-ortiz-jurado-589090331/)
 - 🌐 Personal Website: --in progress--
 
